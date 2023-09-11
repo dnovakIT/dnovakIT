@@ -1,7 +1,7 @@
-### Hi there 👋
+<h1>Hi, I'm Dylan! <br/><a href="https://www.linkedin.com/in/dylan-novak06/"> Aspiring Cybersecurity Professional</a>
 
-<!--
-**dnovakIT/dnovakIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
 
 Here are some ideas to get you started:
 
